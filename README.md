@@ -1,10 +1,9 @@
-# Project Name
+# Chat Application
 
-One On One Chat application | Spring boot & WebSocket | By Alibou
+One On One Chat application | Spring boot & WebSocket | By Coco
 
 ## Overview
 
-Explore the world of **WebSockets** with **Alibou**, your experienced software engineer guide. If you missed our previous session delving into the magic of WebSockets and creating a lively group chat application, catch up [here](https://www.youtube.com/watch?v=7T-HnTE6v64&ab_channel=BoualiAli).
 
 Today's focus is on real-time communication, as we build a **one-on-one chat application** that ensures private, secure conversations. Taking it a step further, we'll persist these chats in a **MongoDB database**.
 
@@ -18,7 +17,8 @@ Before diving into the code, a special mention for those keen on deepening their
 
 #### Here is a demo of the application
 
-![Future application](./app-preview.png)
+![image](https://github.com/UtsavDabhi16/spring-boot-mongodb-web-socket/assets/100900003/0a98e469-490e-4645-9271-c2651a6a7827)
+
 
 #### Full Tutorial link
 
